@@ -3,7 +3,6 @@ Some simple tasks for cellular automata
 
 //
 //  main.c
-//  CA_1
 //
 //  Created by Boskos Dimitris on 27/10/20.
 //  One Dime, rule 90 (mod2), Periodic
